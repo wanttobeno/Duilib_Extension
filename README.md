@@ -30,3 +30,9 @@
 [Frok From](https://github.com/xiaonaiquan/duilib_xiaonaiquan/blob/master/Control/UIDateTime.cpp)
 ![UIDateTime](./UIDateTime/snatshot.png)
 
+##### 6、UIIPAddress
+IP地址显示
+[Frok From](https://github.com/xiaonaiquan/duilib_xiaonaiquan/blob/master/Control/UIIPAddress.cpp)
+![UIIPAddress](./UIIPAddress/snatshot.png)
+
+
