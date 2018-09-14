@@ -35,4 +35,19 @@ IP地址显示
 [Frok From](https://github.com/xiaonaiquan/duilib_xiaonaiquan/blob/master/Control/UIIPAddress.cpp)
 ![UIIPAddress](./UIIPAddress/snatshot.png)
 
+##### 7、UIChildLayout
+CContainerUI的派生类，实行从xml加载控件
+[Frok From](https://github.com/xiaonaiquan/duilib_xiaonaiquan/blob/master/Layout/UIChildLayout.cpp)
+
+##### 8、CTrayIcon
+托盘图标封装
+[Frok From](https://github.com/xiaonaiquan/duilib_xiaonaiquan/blob/master/Utils/TrayIcon.cpp)
+
+##### 9、UIHotKey
+捕获键盘快捷键
+[Frok From](https://github.com/xiaonaiquan/duilib_xiaonaiquan/blob/master/Control/UIHotKey.cpp)
+
+![UIHotKey](./UIHotKey/snatshot.png)
+
+
 
