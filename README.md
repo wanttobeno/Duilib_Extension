@@ -25,3 +25,8 @@
 ![UIFadeButton](./UIFadeButton/snatshot.png)
 
 
+##### 5、UIDateTime
+时间选择控件
+[Frok From](https://github.com/xiaonaiquan/duilib_xiaonaiquan/blob/master/Control/UIDateTime.cpp)
+![UIDateTime](./UIDateTime/snatshot.png)
+
