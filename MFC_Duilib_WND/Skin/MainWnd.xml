@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<Window>
+  <Font id="0" name="宋体" size="16" bold="false" italic="false" />
+  <Font id="1" name="宋体" size="24" bold="false" italic="false" />
+  <VerticalLayout bkimage="images/bkimage.png">
+	<Label text="这是一个Duilib做的控件" padding="0,10,0,0" font="1" align="center vcenter" textcolor="#ffff0000" />
+	<Button name="btn_test" text="按扭-点我" textcolor="#ffffffff" hottextcolor="#ffeeeeee" padding="10,0,0,0" font="0" width="121" height="52" normalimage="images/btn_normal.png" hotimage="images/btn_hot.png" />
+	<WebBrowser name="web_browser" padding="10,10,10,10" usecustomdochost="false" clsid="{8856F961-340A-11D0-A96B-00C04FD705A2}" delaycreate="false"/>
+  </VerticalLayout>
+</Window>
